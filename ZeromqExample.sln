@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeromqExample", "ZeromqExample\ZeromqExample.csproj", "{54C64862-1DA5-458B-A7A7-6EEEA64052EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54C64862-1DA5-458B-A7A7-6EEEA64052EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54C64862-1DA5-458B-A7A7-6EEEA64052EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54C64862-1DA5-458B-A7A7-6EEEA64052EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54C64862-1DA5-458B-A7A7-6EEEA64052EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {531E9CBD-6DE6-4C6E-963A-61DBFE61F2C9}
+	EndGlobalSection
+EndGlobal
