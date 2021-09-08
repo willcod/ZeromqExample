@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeromqExample", "ZeromqExample\ZeromqExample.csproj", "{54C64862-1DA5-458B-A7A7-6EEEA64052EA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{0AC13950-4C62-4735-B85A-643C86F3A17F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfExample", "WpfExample\WpfExample.csproj", "{435A87FB-EBBD-40A4-B2A5-A9C058022928}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{54C64862-1DA5-458B-A7A7-6EEEA64052EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{54C64862-1DA5-458B-A7A7-6EEEA64052EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{54C64862-1DA5-458B-A7A7-6EEEA64052EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{54C64862-1DA5-458B-A7A7-6EEEA64052EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AC13950-4C62-4735-B85A-643C86F3A17F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC13950-4C62-4735-B85A-643C86F3A17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC13950-4C62-4735-B85A-643C86F3A17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC13950-4C62-4735-B85A-643C86F3A17F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{435A87FB-EBBD-40A4-B2A5-A9C058022928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{435A87FB-EBBD-40A4-B2A5-A9C058022928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{435A87FB-EBBD-40A4-B2A5-A9C058022928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{435A87FB-EBBD-40A4-B2A5-A9C058022928}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
